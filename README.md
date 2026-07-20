@@ -52,4 +52,5 @@ If you use this code, please cite the DriftGuard-GNN paper. Full citation inform
 Salam Al-E'mari, Yousef Sanjalawe, and Muder Almiani.
 
 ## License
-The original source code and documentation in this repository are released under the [MIT License]
+
+The original source code and documentation in this repository are released under the [MIT License](https://github.com/salam-ammari/DriftGuard-GNN/blob/main/LICENSE).
