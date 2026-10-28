@@ -1,0 +1,7 @@
+customers 42372 weeks 147 theft rate 0.08531577456811101 missing-week frac 0.25174033551870667
+seed 11 {'LR': 0.215, 'RF': 0.157, 'GB': 0.155, 'RF-raw': 0.094, 'MLP': 0.207, 'R-SAGE-sup': 0.137, 'GraphCtx-MLP': 0.216, 'DriftGuard-GNN': 0.188}
+seed 23 {'LR': 0.19, 'RF': 0.163, 'GB': 0.144, 'RF-raw': 0.093, 'MLP': 0.217, 'R-SAGE-sup': 0.12, 'GraphCtx-MLP': 0.211, 'DriftGuard-GNN': 0.199}
+seed 37 {'LR': 0.207, 'RF': 0.182, 'GB': 0.152, 'RF-raw': 0.116, 'MLP': 0.209, 'R-SAGE-sup': 0.135, 'GraphCtx-MLP': 0.207, 'DriftGuard-GNN': 0.19}
+seed 51 {'LR': 0.216, 'RF': 0.173, 'GB': 0.154, 'RF-raw': 0.101, 'MLP': 0.219, 'R-SAGE-sup': 0.191, 'GraphCtx-MLP': 0.234, 'DriftGuard-GNN': 0.212}
+seed 73 {'LR': 0.223, 'RF': 0.139, 'GB': 0.171, 'RF-raw': 0.113, 'MLP': 0.211, 'R-SAGE-sup': 0.144, 'GraphCtx-MLP': 0.212, 'DriftGuard-GNN': 0.171}
+timing {'load_s': 4.743825435638428, 'graph_s': 37.08029365539551, 'features_s': 0.7936650514602661, 'ssl_pretrain_s': 31.448469734191896, 'gnn_infer_s': 0.05144722461700439, 'head_fit_s_0.01': 0.34974045753479005, 'head_fit_s_0.05': 0.9439826965332031}
